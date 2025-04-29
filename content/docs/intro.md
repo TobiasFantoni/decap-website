@@ -1,12 +1,9 @@
 ---
-title: Overview
 group: Intro
 weight: 1
+title: Overview
 ---
 
-Decap CMS (formerly Netlify CMS) is an open source content management system for your Git workflow that enables you to provide editors with a friendly UI and intuitive workflows. You can use it with any static site generator to create faster, more flexible web projects. Content is stored in your Git repository alongside your code for easier versioning, multi-channel publishing, and the option to handle content updates directly in Git.
-
-At its core, Decap CMS is an open-source React app that acts as a wrapper for the Git workflow, using the GitHub, GitLab, or Bitbucket API. This provides many advantages, including:
 
 * **Fast, web-based UI:** With rich-text editing, real-time preview, and drag-and-drop media uploads.
 * **Platform agnostic:** Works with most static site generators.
@@ -21,9 +18,7 @@ At its core, Decap CMS is an open-source React app that acts as a wrapper for th
 
 The folks at Netlify created Netlify CMS to fill a gap in the static site generation pipeline. There were some great proprietary headless CMS options, but no real contenders that were open source and extensible—that could turn into a community-built ecosystem like WordPress or Drupal. For that reason, Netlify CMS is _made_ to be community-driven, and has never been locked to the Netlify platform (despite the name). In February 2023 [Netlify CMS became Decap CMS](https://www.netlify.com/blog/netlify-cms-to-become-decap-cms/).
 
-With this in mind, you can:
-
-* Use Decap CMS without Netlify and deploy your site where you always have, hooking up your own CI, site hosting, CDN, etc.
+With this in mind, you ca
 * Use Netlify without Decap CMS and edit your static site in your code editor.
 * Or, use them together and have a fully-working CMS-enabled site with [one click](../start-with-a-template/)!
 
