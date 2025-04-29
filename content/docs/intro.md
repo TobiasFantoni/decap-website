@@ -8,3 +8,4 @@ title: Overview
 * **Fully extensible:** Create custom-styled previews, UI widgets, and editor plugins.
 
 ## Decap CMS vs. Netlify
+hoda como seasa
